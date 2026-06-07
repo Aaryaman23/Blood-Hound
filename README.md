@@ -36,14 +36,6 @@ This project was created to explore how AI can accelerate frontend development w
 
 AI assisted with development and workflow optimization, while design decisions, asset selection, customization, and final implementation were directed manually.
 
-## 📸 Preview
-
-Add screenshots or a demo GIF here.
-
-## 🔗 Live Demo
-
-Add your deployed website link here.
-
 ## 📚 Key Takeaways
 
 * Faster frontend development using AI-assisted workflows
